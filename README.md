@@ -3,7 +3,7 @@ Twitter Responsive Using React
 </h1>
 
 <p align="center">Responsive Twitter UI Clone (partial) for study purposes.</p>
-<p align="center">Deployed <a href="https://rocketseat-twitter-clone.netlify.app/">here</a>.</p>
+<p align="center">Deployed <a href="https://hardcore-pasteur-10390b.netlify.app/">here</a>.</p>
 
 <hr>
 
